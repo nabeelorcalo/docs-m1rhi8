@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-fil2cc.royaltoto2er.site/sitemap.xml
